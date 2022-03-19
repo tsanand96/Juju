@@ -8,6 +8,6 @@ flasgger
 streamlit
 pandas
 numpy
-
+matplotlib
 
 
